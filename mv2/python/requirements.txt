@@ -1,2 +1,0 @@
-executorch==1.0.0
-torchvision==0.24.0
